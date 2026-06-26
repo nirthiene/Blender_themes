@@ -8,7 +8,8 @@ EnergyDrinkZero__nirthiene.xml  [Blender v5.1.2]
 <img width="1917" height="1031" alt="image" src="https://github.com/user-attachments/assets/df5066a9-2926-4fbd-831b-eced4a8207ef" />
 
 Opalique__nirthiene.xml  [Blender v5.1.2]
-<img width="1917" height="1032" alt="image" src="https://github.com/user-attachments/assets/8c09e7e9-7b7c-48e6-a7df-277e78aa1e9b" />
+<img width="1917" height="1032" alt="image" src="https://github.com/user-attachments/assets/597641d1-59f1-4fbe-b318-4c803c717a49" />
+
 
 
 ## How to Install
