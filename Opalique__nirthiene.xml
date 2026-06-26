@@ -404,7 +404,7 @@
       <ThemeRegions>
         <asset_shelf>
           <ThemeRegionsAssetShelf
-            back="#372e2be6"
+            back="#302826e6"
             header_back="#211718ff"
             >
           </ThemeRegionsAssetShelf>
@@ -599,12 +599,12 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#231d2d"
-            title="#ffffff"
-            text="#e3dfe9"
+            back="#1d1620"
+            title="#ffbbbb"
+            text="#e9576d"
             text_hi="#ffffff"
             header="#2b2337b3"
-            header_text="#ece9f0"
+            header_text="#81c9f0"
             header_text_hi="#ffffff"
             >
           </ThemeSpaceGeneric>
@@ -620,7 +620,7 @@
         strips_selected="#ff8c00"
         transition_strips="#1c2630"
         transition_strips_selected="#2e75db"
-        meta_strips="#332642"
+        meta_strips="#312142"
         meta_strips_selected="#692196"
         sound_strips="#2b3d3d"
         sound_strips_selected="#1f7a7a"
@@ -689,19 +689,19 @@
         preview_stitch_vert="#0000ff33"
         preview_stitch_stitchable="#00ff00ff"
         preview_stitch_unstitchable="#ff0000ff"
-        preview_stitch_active="#e1d2c323"
+        preview_stitch_active="#7f636823"
         uv_shadow="#80405dff"
         metadatabg="#000000"
         metadatatext="#ffffff"
         >
         <space>
           <ThemeSpaceGeneric
-            back="#303030"
+            back="#201c1d"
             title="#ece9f0"
-            text="#e3dfe9"
+            text="#de9ae9"
             text_hi="#ffffff"
             header="#37332bb3"
-            header_text="#ece9f0"
+            header_text="#3c8184"
             header_text_hi="#ffffff"
             >
           </ThemeSpaceGeneric>
@@ -757,7 +757,7 @@
             title="#ca9380"
             text="#b298e9"
             text_hi="#ffffff"
-            header="#2b2337b3"
+            header="#272032b3"
             header_text="#613337"
             header_text_hi="#ffffff"
             >
@@ -796,10 +796,10 @@
     </text_editor>
     <node_editor>
       <ThemeNodeEditor
-        grid="#2b2337"
+        grid="#162b37"
         node_outline="#ffffff26"
         node_selected="#ed5700"
-        node_active="#ffffff"
+        node_active="#ffa050"
         wire="#17131dff"
         wire_inner="#816f9e"
         wire_select="#ffffffb3"
@@ -830,13 +830,13 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#17131d"
+            back="#171515"
             title="#ece9f0"
-            text="#e3dfe9"
-            text_hi="#ffffff"
+            text="#e95e7b"
+            text_hi="#70fff3"
             header="#17131db3"
-            header_text="#ece9f0"
-            header_text_hi="#ffffff"
+            header_text="#ecd6f0"
+            header_text_hi="#71496c"
             >
           </ThemeSpaceGeneric>
         </space>
@@ -985,7 +985,7 @@
       <ThemeStatusBar>
         <space>
           <ThemeSpaceGeneric
-            back="#2b2337"
+            back="#261837"
             title="#ffffff"
             text="#3da9b6"
             text_hi="#ffffff"
