@@ -7,6 +7,8 @@ RosePink__nirthiene.xml  [Blender v5.1.2]
 EnergyDrinkZero__nirthiene.xml  [Blender v5.1.2]
 <img width="1917" height="1031" alt="image" src="https://github.com/user-attachments/assets/df5066a9-2926-4fbd-831b-eced4a8207ef" />
 
+Opalique__nirthiene.xml  [Blender v5.1.2]
+<img width="1919" height="1027" alt="image" src="https://github.com/user-attachments/assets/1590bc46-6469-4c2c-9d07-821493bbcf58" />
 
 ## How to Install
 
