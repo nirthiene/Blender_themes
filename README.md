@@ -10,6 +10,8 @@ EnergyDrinkZero__nirthiene.xml  [Blender v5.1.2]
 Opalique__nirthiene.xml  [Blender v5.1.2]
 <img width="1917" height="1032" alt="image" src="https://github.com/user-attachments/assets/597641d1-59f1-4fbe-b318-4c803c717a49" />
 
+GothicLipstick__nirthiene.xml  [Blender v5.1.2]
+<img width="1919" height="1006" alt="image" src="https://github.com/user-attachments/assets/cb6754bd-2b23-4175-8660-d9b7bd62d7b6" />
 
 
 ## How to Install
