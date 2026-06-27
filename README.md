@@ -14,10 +14,7 @@ GothicLipstick__nirthiene.xml  [Blender v5.1.2]
 <img width="1919" height="1006" alt="image" src="https://github.com/user-attachments/assets/cb6754bd-2b23-4175-8660-d9b7bd62d7b6" />
 
 Kindr3d__nirthiene.xml  [Blender v5.1.2]
-
-<img width="1917" height="1005" alt="image" src="https://github.com/user-attachments/assets/e43ed462-0077-4d47-8fcb-83fcad1f7fa9" />
-.
-<img width="1917" height="1010" alt="image" src="https://github.com/user-attachments/assets/5d9bd8da-6beb-43f2-a846-7f941aaa1eca" />
+<img width="1913" height="1005" alt="image" src="https://github.com/user-attachments/assets/6b109602-cf2f-48ab-b48a-2654897e62e5" />
 
 
 ## How to Install
