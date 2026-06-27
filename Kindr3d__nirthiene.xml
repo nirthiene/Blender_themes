@@ -973,9 +973,9 @@
             title="#793eab"
             text="#894f85"
             text_hi="#323232"
-            header="#000000ff"
+            header="#11121aff"
             header_text="#ab7da2"
-            header_text_hi="#8b959e"
+            header_text_hi="#70787f"
             >
           </ThemeSpaceGeneric>
         </space>
@@ -987,10 +987,10 @@
           <ThemeSpaceGeneric
             back="#141414"
             title="#dab5ff"
-            text="#343434"
+            text="#3c3c3c"
             text_hi="#573d7b"
-            header="#040002ff"
-            header_text="#747474"
+            header="#191a22ff"
+            header_text="#888888"
             header_text_hi="#38488e"
             >
           </ThemeSpaceGeneric>
