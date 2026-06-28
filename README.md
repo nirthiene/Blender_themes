@@ -16,6 +16,8 @@ GothicLipstick__nirthiene.xml  [Blender v5.1.2]
 Kindr3d__nirthiene.xml  [Blender v5.1.2]
 <img width="1913" height="1005" alt="image" src="https://github.com/user-attachments/assets/6b109602-cf2f-48ab-b48a-2654897e62e5" />
 
+DarkerThanDark__nirthiene.xml  [Blender v5.1.2]
+<img width="1919" height="1008" alt="image" src="https://github.com/user-attachments/assets/e66845cd-102d-41b5-9855-4ba913f26971" />
 
 ## How to Install
 
