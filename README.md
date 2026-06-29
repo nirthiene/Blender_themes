@@ -19,6 +19,9 @@ Kindr3d__nirthiene.xml  [Blender v5.1.2]
 DarkerThanDark__nirthiene.xml  [Blender v5.1.2]
 <img width="1919" height="1008" alt="image" src="https://github.com/user-attachments/assets/e66845cd-102d-41b5-9855-4ba913f26971" />
 
+Lilith__nirthiene.xml  [Blender v5.1.2]
+<img width="1917" height="1010" alt="image" src="https://github.com/user-attachments/assets/81295ca8-3943-4e5f-9f26-51324e063fd1" />
+
 ## How to Install
 
 1. Download the `.xml` file of your chosen theme from this repository.
