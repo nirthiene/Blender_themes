@@ -22,6 +22,9 @@ DarkerThanDark__nirthiene.xml  [Blender v5.1.2]
 Lilith__nirthiene.xml  [Blender v5.1.2]
 <img width="1917" height="1010" alt="image" src="https://github.com/user-attachments/assets/81295ca8-3943-4e5f-9f26-51324e063fd1" />
 
+CrimsonAsh__nirthiene.xml  [Blender v5.1.2]
+<img width="1915" height="1007" alt="image" src="https://github.com/user-attachments/assets/0fccb61b-3eb8-4d21-a379-efa52e027c27" />
+
 ## How to Install
 
 1. Download the `.xml` file of your chosen theme from this repository.
