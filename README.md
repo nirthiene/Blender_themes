@@ -22,10 +22,10 @@ DarkerThanDark__nirthiene.xml  [Blender v5.1.2]
 Lilith__nirthiene.xml  [Blender v5.1.2]
 <img width="1917" height="1010" alt="image" src="https://github.com/user-attachments/assets/81295ca8-3943-4e5f-9f26-51324e063fd1" />
 
-CrimsonAsh__nirthiene.xml  [Blender v5.1.2]
+CrimsonAsh__nirthiene.xml  [Blender v5.1.2] [to improve]
 <img width="1916" height="1010" alt="image" src="https://github.com/user-attachments/assets/dc2034b2-0509-4f54-af81-348e09841aba" />
 
-VioletRoseGarden__nirthiene.xml  [Blender v5.1.2]
+VioletRoseGarden__nirthiene.xml  [Blender v5.1.2] [to improve]
 <img width="1915" height="1010" alt="image" src="https://github.com/user-attachments/assets/fe74f7bc-5aad-4e11-a38b-06503eabe5e8" />
 
 
