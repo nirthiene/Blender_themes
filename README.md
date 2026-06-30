@@ -23,7 +23,8 @@ Lilith__nirthiene.xml  [Blender v5.1.2]
 <img width="1917" height="1010" alt="image" src="https://github.com/user-attachments/assets/81295ca8-3943-4e5f-9f26-51324e063fd1" />
 
 CrimsonAsh__nirthiene.xml  [Blender v5.1.2]
-<img width="1915" height="1007" alt="image" src="https://github.com/user-attachments/assets/0fccb61b-3eb8-4d21-a379-efa52e027c27" />
+<img width="1916" height="1010" alt="image" src="https://github.com/user-attachments/assets/dc2034b2-0509-4f54-af81-348e09841aba" />
+
 
 ## How to Install
 
