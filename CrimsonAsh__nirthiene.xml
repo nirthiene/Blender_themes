@@ -194,7 +194,7 @@
             inner_sel="#222222ff"
             item="#191919ff"
             text="#861d11"
-            text_sel="#57696b"
+            text_sel="#6a8083"
             show_shaded="FALSE"
             shadetop="0"
             shadedown="0"
@@ -572,7 +572,7 @@
     </view_3d>
     <graph_editor>
       <ThemeGraphEditor
-        grid="#260006"
+        grid="#100e0e"
         vertex="#57696b"
         vertex_select="#bd2807"
         vertex_active="#ffffff"
@@ -580,13 +580,13 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#050505"
+            back="#121212"
             title="#bd2807"
             text="#a6a6a6"
             text_hi="#bd2807"
             header="#0a0a0ab3"
-            header_text="#eeeeee"
-            header_text_hi="#000000"
+            header_text="#989898"
+            header_text_hi="#0b0b0b"
             >
           </ThemeSpaceGeneric>
         </space>
@@ -594,18 +594,18 @@
     </graph_editor>
     <file_browser>
       <ThemeFileBrowser
-        selected_file="#771200"
-        row_alternate="#ffffff04"
+        selected_file="#981700"
+        row_alternate="#8c8c8c04"
         >
         <space>
           <ThemeSpaceGeneric
-            back="#000000"
+            back="#0d1217"
             title="#bd2807"
             text="#57696b"
-            text_hi="#bd2807"
-            header="#000000b3"
+            text_hi="#a32206"
+            header="#080808b3"
             header_text="#57696b"
-            header_text_hi="#bd2807"
+            header_text_hi="#8b1d05"
             >
           </ThemeSpaceGeneric>
         </space>
@@ -671,36 +671,36 @@
     </dopesheet_editor>
     <image_editor>
       <ThemeImageEditor
-        grid="#0a0a0aff"
+        grid="#0b0909ff"
         vertex="#000000"
         vertex_select="#bd2807"
         vertex_size="3"
-        face="#ffffff0a"
+        face="#916a6f0a"
         face_select="#bd28073c"
         face_mode_select="#00000000"
         facedot_size="3"
-        editmesh_active="#ffffff40"
-        wire_edit="#c0c0c0"
+        editmesh_active="#84848440"
+        wire_edit="#746d7b"
         edge_width="1"
         edge_select="#bd2807"
-        scope_back="#727272ff"
+        scope_back="#4c4c4cff"
         preview_stitch_face="#7f7f0033"
         preview_stitch_edge="#ff00ff33"
         preview_stitch_vert="#0000ff33"
         preview_stitch_stitchable="#00ff00ff"
         preview_stitch_unstitchable="#ff0000ff"
-        preview_stitch_active="#e1d2c323"
-        uv_shadow="#707070ff"
+        preview_stitch_active="#89818523"
+        uv_shadow="#690005ff"
         metadatabg="#000000"
         metadatatext="#ffffff"
         >
         <space>
           <ThemeSpaceGeneric
-            back="#05080a"
+            back="#050608"
             title="#bd2807"
             text="#bd2807"
             text_hi="#bd2807"
-            header="#0a0a0ab3"
+            header="#030303b3"
             header_text="#eeeeee"
             header_text_hi="#bd2807"
             >
@@ -797,18 +797,18 @@
     <node_editor>
       <ThemeNodeEditor
         grid="#4b0b01"
-        node_outline="#57696ba7"
-        node_selected="#bd2807"
+        node_outline="#485759a7"
+        node_selected="#d02c08"
         node_active="#a24827"
-        wire="#222222ff"
+        wire="#171717ff"
         wire_inner="#8d8d8d"
-        wire_select="#a24827b3"
+        wire_select="#6b301ab3"
         node_backdrop="#050505ff"
         converter_node="#0048be"
         color_node="#317e00"
         group_node="#009782"
         group_socket_node="#000000"
-        frame_node="#0f0f0fcc"
+        frame_node="#303030cc"
         matte_node="#973c3c"
         distor_node="#4c9797"
         noodle_curving="4"
@@ -830,7 +830,7 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#050505"
+            back="#070a0d"
             title="#bd2807"
             text="#4b0b01"
             text_hi="#bd2807"
@@ -844,21 +844,21 @@
     </node_editor>
     <outliner>
       <ThemeOutliner
-        match="#57696b"
+        match="#516264"
         selected_highlight="#4b0b01"
         active="#bd2807"
-        selected_object="#eeeeee"
+        selected_object="#b5b5b5"
         active_object="#000000"
         edited_object="#4b0b0166"
-        row_alternate="#ffffff04"
+        row_alternate="#c2aeb204"
         >
         <space>
           <ThemeSpaceGeneric
-            back="#050505"
+            back="#080a0b"
             title="#bd2807"
-            text="#a24827"
-            text_hi="#57696b"
-            header="#0a0a0ab3"
+            text="#994425"
+            text_hi="#627779"
+            header="#0f0f0fb3"
             header_text="#eeeeee"
             header_text_hi="#bd2807"
             >
