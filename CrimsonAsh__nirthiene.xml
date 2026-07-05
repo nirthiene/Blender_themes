@@ -15,9 +15,9 @@
         panel_header="#162028ff"
         panel_title="#bd2807"
         panel_text="#a24827"
-        panel_back="#0e1113ff"
-        panel_sub_back="#0000001f"
-        panel_outline="#00000000"
+        panel_back="#0e1012ff"
+        panel_sub_back="#0303031f"
+        panel_outline="#03030300"
         panel_active="#57696bff"
         transparent_checker_primary="#111111"
         transparent_checker_secondary="#000000"
@@ -66,7 +66,7 @@
             inner_sel="#bd2807ff"
             item="#ffffffff"
             text="#a24827"
-            text_sel="#000000"
+            text_sel="#020202"
             show_shaded="FALSE"
             shadetop="0"
             shadedown="0"
@@ -78,7 +78,7 @@
           <ThemeWidgetColors
             outline="#a30000ff"
             outline_sel="#bd2807ff"
-            inner="#0f0f0fff"
+            inner="#0f0f0fe3"
             inner_sel="#bd280733"
             item="#a24827ff"
             text="#57696b"
@@ -128,7 +128,7 @@
             outline_sel="#bd2807ff"
             inner="#0f0f0fff"
             inner_sel="#3f4c4dff"
-            item="#000000ff"
+            item="#020202ff"
             text="#909090"
             text_sel="#a24827"
             show_shaded="TRUE"
@@ -146,7 +146,7 @@
             inner_sel="#bd2807ff"
             item="#a24827ff"
             text="#c0c0c0"
-            text_sel="#000000"
+            text_sel="#0b0b0b"
             show_shaded="FALSE"
             shadetop="0"
             shadedown="0"
@@ -190,7 +190,7 @@
           <ThemeWidgetColors
             outline="#7e0000ff"
             outline_sel="#3d3d3dff"
-            inner="#0d0003ff"
+            inner="#080002ff"
             inner_sel="#222222ff"
             item="#191919ff"
             text="#861d11"
@@ -207,7 +207,7 @@
             outline="#727272ff"
             outline_sel="#9a9a9aff"
             inner="#545454ff"
-            inner_sel="#000000ff"
+            inner_sel="#080808ff"
             item="#00000059"
             text="#080808"
             text_sel="#c9c9c9"
@@ -222,11 +222,11 @@
           <ThemeWidgetColors
             outline="#6b0000ff"
             outline_sel="#861d11ff"
-            inner="#0d0003ff"
+            inner="#1a060bff"
             inner_sel="#bd2807b3"
             item="#a24827ff"
             text="#57696b"
-            text_sel="#000000"
+            text_sel="#050505"
             show_shaded="FALSE"
             shadetop="0"
             shadedown="0"
@@ -289,8 +289,8 @@
             inner="#190006e6"
             inner_sel="#bd2807ff"
             item="#c5c5c5ff"
-            text="#a24827"
-            text_sel="#000000"
+            text="#a54928"
+            text_sel="#050505"
             show_shaded="TRUE"
             shadetop="0"
             shadedown="-100"
@@ -322,7 +322,7 @@
             inner_sel="#bd2807ff"
             item="#a24827ff"
             text="#a24827"
-            text_sel="#000000"
+            text_sel="#020202"
             show_shaded="FALSE"
             shadetop="0"
             shadedown="0"
@@ -384,11 +384,11 @@
         </wcol_state>
         <wcol_tab>
           <ThemeWidgetColors
-            outline="#0f0f0f00"
+            outline="#02020200"
             outline_sel="#2a2a2a00"
-            inner="#050505ff"
+            inner="#000000ff"
             inner_sel="#0f161bff"
-            item="#0f0f0fff"
+            item="#101010ff"
             text="#861d11"
             text_sel="#58676e"
             show_shaded="FALSE"
@@ -419,7 +419,7 @@
         </channels>
         <scrubbing>
           <ThemeRegionsScrubbing
-            back="#000000ff"
+            back="#030303ff"
             text="#57696b"
             time_marker="#ffffff4d"
             time_marker_selected="#ffffffb3"
@@ -428,8 +428,8 @@
         </scrubbing>
         <sidebars>
           <ThemeRegionsSidebars
-            back="#0a0a0a00"
-            tab_back="#050505ff"
+            back="#0b080800"
+            tab_back="#0b0808bb"
             >
           </ThemeRegionsSidebars>
         </sidebars>
@@ -599,7 +599,7 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#0d1217"
+            back="#10151b"
             title="#bd2807"
             text="#57696b"
             text_hi="#a32206"
@@ -671,19 +671,19 @@
     </dopesheet_editor>
     <image_editor>
       <ThemeImageEditor
-        grid="#0b0909ff"
+        grid="#000000ff"
         vertex="#000000"
         vertex_select="#bd2807"
         vertex_size="3"
-        face="#916a6f0a"
+        face="#d786980a"
         face_select="#bd28073c"
         face_mode_select="#00000000"
         facedot_size="3"
-        editmesh_active="#84848440"
+        editmesh_active="#91919140"
         wire_edit="#746d7b"
         edge_width="1"
         edge_select="#bd2807"
-        scope_back="#4c4c4cff"
+        scope_back="#272727ff"
         preview_stitch_face="#7f7f0033"
         preview_stitch_edge="#ff00ff33"
         preview_stitch_vert="#0000ff33"
@@ -696,11 +696,11 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#050608"
+            back="#0f161b"
             title="#bd2807"
             text="#bd2807"
             text_hi="#bd2807"
-            header="#030303b3"
+            header="#0f0f0fa5"
             header_text="#eeeeee"
             header_text_hi="#bd2807"
             >
@@ -830,7 +830,7 @@
         >
         <space>
           <ThemeSpaceGeneric
-            back="#070a0d"
+            back="#0e151a"
             title="#bd2807"
             text="#4b0b01"
             text_hi="#bd2807"
@@ -848,17 +848,17 @@
         selected_highlight="#4b0b01"
         active="#bd2807"
         selected_object="#b5b5b5"
-        active_object="#000000"
+        active_object="#0d0d0d"
         edited_object="#4b0b0166"
-        row_alternate="#c2aeb204"
+        row_alternate="#edd5da04"
         >
         <space>
           <ThemeSpaceGeneric
-            back="#080a0b"
+            back="#0f1315"
             title="#bd2807"
             text="#994425"
             text_hi="#627779"
-            header="#0f0f0fb3"
+            header="#0a0a0ab3"
             header_text="#eeeeee"
             header_text_hi="#bd2807"
             >
@@ -969,7 +969,7 @@
       <ThemeTopBar>
         <space>
           <ThemeSpaceGeneric
-            back="#050505"
+            back="#0a0a0a"
             title="#bd2807"
             text="#e6e6e6"
             text_hi="#bd2807"
