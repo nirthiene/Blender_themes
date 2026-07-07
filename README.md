@@ -28,7 +28,7 @@ CrimsonAsh__nirthiene.xml  [Blender v5.1.2]
 VioletRoseGarden__nirthiene.xml  [Blender v5.1.2]
 <img width="1917" height="1005" alt="image" src="https://github.com/user-attachments/assets/4f12112e-b0f7-458c-8aa6-8dd46604ed74" />
 
-CutePink__nirthiene.xml  [Blender v5.1.2]
+CutePink__nirthiene.xml  [Blender v5.1.2] (work in progress)
 <img width="1915" height="1012" alt="image" src="https://github.com/user-attachments/assets/a7b5ecd0-8cf7-4197-908f-45bbb8251e40" />
 
 
