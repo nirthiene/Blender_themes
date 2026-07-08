@@ -440,14 +440,14 @@
         <anim>
           <ThemeCommonAnim
             playhead="#b2b2b2"
-            preview_range="#694a2e66"
+            preview_range="#69666366"
             scene_strip_range="#00000080"
-            channels="#44638080"
-            channels_sub="#27313d80"
+            channels="#12121280"
+            channels_sub="#1b1d2080"
             channel_group="#1a332d37"
             channel_group_active="#216d5b67"
             channel="#12121299"
-            channel_selected="#677e5f44"
+            channel_selected="#7a7e7844"
             keyframe="#898989"
             keyframe_selected="#a38d5d"
             keyframe_extreme="#a08792"
@@ -574,7 +574,7 @@
       <ThemeGraphEditor
         grid="#171717"
         vertex="#000000"
-        vertex_select="#572d00"
+        vertex_select="#575254"
         vertex_active="#989898"
         vertex_size="6"
         >
@@ -614,18 +614,18 @@
     <nla_editor>
       <ThemeNLAEditor
         grid="#2a2a2a"
-        active_action="#99541366"
-        active_action_unset="#4d3b174d"
+        active_action="#37373766"
+        active_action_unset="#1b1b1b4d"
         strips="#0d0d0d"
-        strips_selected="#a35900"
-        transition_strips="#1c2630"
-        transition_strips_selected="#153666"
-        meta_strips="#332642"
-        meta_strips_selected="#4d186e"
+        strips_selected="#737373"
+        transition_strips="#303030"
+        transition_strips_selected="#666666"
+        meta_strips="#3b3642"
+        meta_strips_selected="#4f4356"
         sound_strips="#2b3d3d"
-        sound_strips_selected="#1d7373"
-        tweak="#29810e"
-        tweak_duplicate="#6c0000"
+        sound_strips_selected="#6a7373"
+        tweak="#6a8163"
+        tweak_duplicate="#4f4545"
         keyframe_border="#000000ff"
         keyframe_border_selected="#000000ff"
         >
@@ -896,7 +896,7 @@
     </info>
     <preferences>
       <ThemePreferences
-        match="#585e7f"
+        match="#7b7c7f"
         >
         <space>
           <ThemeSpaceGeneric
@@ -939,15 +939,15 @@
       <ThemeClipEditor
         grid="#181818ff"
         marker_outline="#000000"
-        marker="#51512e"
+        marker="#4f4d51"
         active_marker="#777777"
-        selected_marker="#838300"
-        disabled_marker="#7f0000"
+        selected_marker="#b0aeaa"
+        disabled_marker="#1e1f1d"
         locked_marker="#7f7f7f"
-        path_before="#890000"
-        path_after="#000088"
-        path_keyframe_before="#807272"
-        path_keyframe_after="#767699"
+        path_before="#6c5658"
+        path_after="#404454"
+        path_keyframe_before="#5c5252"
+        path_keyframe_after="#56566f"
         metadatabg="#000000"
         metadatatext="#9d9d9d"
         >
@@ -1209,7 +1209,7 @@
         >
       </ThemeStripColor>
       <ThemeStripColor
-        color="#4e6f81"
+        color="#4d6981"
         >
       </ThemeStripColor>
       <ThemeStripColor
