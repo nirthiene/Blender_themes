@@ -770,7 +770,7 @@
         line_numbers="#505050"
         line_numbers_background="#050505"
         selected_text="#181818"
-        cursor="#8b959e"
+        cursor="#7a219e"
         syntax_builtin="#ff7090"
         syntax_symbols="#ff8060"
         syntax_special="#a0d860"
@@ -784,10 +784,10 @@
           <ThemeSpaceGeneric
             back="#070707"
             title="#a861e2"
-            text="#d6cfe0"
-            text_hi="#ffffff"
+            text="#84808b"
+            text_hi="#d8d8d8"
             header="#070707ff"
-            header_text="#d6cfe0"
+            header_text="#762d61"
             header_text_hi="#8b959e"
             >
           </ThemeSpaceGeneric>
@@ -870,7 +870,7 @@
       <ThemeInfo
         info_selected="#181818"
         info_selected_text="#8b959e"
-        info_error_text="#ffffff"
+        info_error_text="#c5c5c5"
         info_warning_text="#8b959e"
         info_info_text="#4d4d4d"
         info_debug="#d3d3d3ff"
