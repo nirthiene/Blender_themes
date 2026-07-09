@@ -770,25 +770,25 @@
         line_numbers="#563017"
         line_numbers_background="#2d1806"
         selected_text="#584033"
-        cursor="#71a8ff"
+        cursor="#b83b67"
         syntax_builtin="#e62e67"
         syntax_symbols="#ff734d"
         syntax_special="#689d06"
-        syntax_preprocessor="#9c73e6"
+        syntax_preprocessor="#e9b352"
         syntax_reserved="#c4753b"
-        syntax_comment="#8876a3"
+        syntax_comment="#af6b4b"
         syntax_string="#e6d573"
         syntax_numbers="#48d9e6"
         >
         <space>
           <ThemeSpaceGeneric
-            back="#32200e"
-            title="#79326a"
-            text="#e3dfe9"
-            text_hi="#ffffff"
-            header="#4a3616b3"
-            header_text="#ece9f0"
-            header_text_hi="#ffffff"
+            back="#221b1c"
+            title="#b83b67"
+            text="#b98453"
+            text_hi="#b83b67"
+            header="#272032b3"
+            header_text="#9c7bb8"
+            header_text_hi="#f57eff"
             >
           </ThemeSpaceGeneric>
         </space>

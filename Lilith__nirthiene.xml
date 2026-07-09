@@ -2,9 +2,9 @@
   <Theme>
     <user_interface>
       <ThemeUserInterface
-        menu_shadow_fac="0.194817"
+        menu_shadow_fac="0.2"
         menu_shadow_width="6"
-        icon_alpha="0.73822"
+        icon_alpha="0.7"
         icon_saturation="0"
         widget_emboss="#08080826"
         editor_border="#000000"
@@ -316,10 +316,10 @@
         </wcol_menu_item>
         <wcol_scroll>
           <ThemeWidgetColors
-            outline="#6d28d9ff"
-            outline_sel="#362d46ff"
+            outline="#491d22ff"
+            outline_sel="#491d22ff"
             inner="#28191200"
-            inner_sel="#ff6d64ff"
+            inner_sel="#91694a70"
             item="#6f4825ff"
             text="#442d1b"
             text_sel="#777148"
@@ -372,8 +372,8 @@
             inner_anim_sel="#38a600"
             inner_key="#b3ae36"
             inner_key_sel="#b29700"
-            inner_driven="#9000cc"
-            inner_driven_sel="#9900e6"
+            inner_driven="#752829"
+            inner_driven_sel="#752850"
             inner_overridden="#00c3c3"
             inner_overridden_sel="#118f8f"
             inner_changed="#cc7529"
@@ -439,7 +439,7 @@
       <ThemeCommon>
         <anim>
           <ThemeCommonAnim
-            playhead="#3f1e79"
+            playhead="#752829"
             preview_range="#813e0066"
             scene_strip_range="#00000080"
             channels="#194e8080"
@@ -450,8 +450,8 @@
             channel_selected="#60c04044"
             keyframe="#b8aec8"
             keyframe_selected="#ffbe33"
-            keyframe_extreme="#e8b3cc"
-            keyframe_extreme_selected="#f28080"
+            keyframe_extreme="#491d22"
+            keyframe_extreme_selected="#752829"
             keyframe_breakdown="#b3dbe8"
             keyframe_breakdown_selected="#54bfed"
             keyframe_jitter="#94e575"
@@ -650,10 +650,10 @@
         keyframe_border_selected="#000000ff"
         keyframe_scale_factor="1"
         summary="#4d272766"
-        anim_interpolation_linear="#94e575cc"
+        anim_interpolation_linear="#752829cc"
         anim_interpolation_constant="#e59c7bcc"
         anim_interpolation_other="#5dbabeb3"
-        simulated_frames="#721e65ff"
+        simulated_frames="#294455ff"
         >
         <space>
           <ThemeSpaceGeneric
