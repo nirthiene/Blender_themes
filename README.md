@@ -32,8 +32,6 @@ GalaxyGaze__nirthiene.xml  [Blender v5.1.2]
 <img width="1915" height="1005" alt="image" src="https://github.com/user-attachments/assets/519d160f-3537-4e83-b8c1-8d10f087ea44" />
 
 CutePink__nirthiene.xml  [Blender v5.1.2] (work in progress)
-<img width="1915" height="1012" alt="image" src="https://github.com/user-attachments/assets/a7b5ecd0-8cf7-4197-908f-45bbb8251e40" />
-
 
 ## How to Install
 
